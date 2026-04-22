@@ -69,4 +69,15 @@ Rating
 
 # 🔍 Key Insights
 
+◆ Tier 3 locations generated higher overall sales
+
+◆ Medium-sized outlets contributed the highest share of revenue
+
+◆ Low-fat products showed strong sales performance
+
+◆ Fruits & Vegetables drive the highest sales volume.
+
+# ▬ Blinkit Sales Analysis Dashboard
+
+<img width="1465" height="857" alt="Blinkit-Sales-Analysis(PowerBi)" src="https://github.com/user-attachments/assets/33e4d08d-c6af-48d3-b7ce-0f5a34223a0b" />
 
